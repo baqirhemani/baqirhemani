@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baqirhemani
 - 👀 I’m interested in Mobile Development and Design
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Prijects
+- 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me baqirhemani@gmail.com
 
 <!---
